@@ -1,5 +1,9 @@
 
 {
-    "navigationBarTitleText": "Toast"
+    "navigationBarTitleText": "零度读书",
+    "usingComponents": {
+        "wux-search-bar":"../../wux/search-bar/index"
+    }
+    
     
 }

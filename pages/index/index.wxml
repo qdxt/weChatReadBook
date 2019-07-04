@@ -1,0 +1,7 @@
+<view class="container">
+    <view class="pl10 pr10 pt10 pb10">
+        <wux-search-bar clear bind:confirm="onConfirm"/>
+    </view>
+      
+    
+</view>

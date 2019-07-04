@@ -7,6 +7,12 @@ Page({
     
   },
   
+  onConfirm:function(e){
+    console.log('onConfirm',e)
+    // e.detail.value
+  },
+  
+  
   onLoad: function () {
     
   }
