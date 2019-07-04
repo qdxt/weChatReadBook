@@ -1,5 +1,7 @@
+
 {
-  "usingComponents": {
-    "search-bar": "../../wux/search-bar/index"
-  }
+    "navigationBarTitleText": "Toast",
+    "usingComponents": {
+        "button": "../../wux/button/index"
+    }
 }
