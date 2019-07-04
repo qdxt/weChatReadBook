@@ -1,7 +1,5 @@
 
 {
-    "navigationBarTitleText": "Toast",
-    "usingComponents": {
-        "button": "../../wux/button/index"
-    }
+    "navigationBarTitleText": "Toast"
+    
 }
