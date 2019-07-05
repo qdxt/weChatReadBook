@@ -4,19 +4,44 @@
   flex-direction: column;
   box-sizing: border-box;
 }
-.pl10{
-    padding-left: 20rpx
+.ling-padding-10{
+  padding:20rpx;
 }
-.pr10{
-    padding-right: 20rpx
+.ling-padding-15{
+  padding:30rpx;
 }
-.pt10{
-    padding-top: 20rpx
+.ling-padding-20{
+  padding:40rpx;
 }
-.pb10{
-    padding-bottom: 20rpx
+.ling-margin-10{
+  margin:20rpx;
 }
-.radius4{
-    border-radius: 8rpx
+.ling-margin-15{
+  margin:30rpx;
 }
+.ling-margin-20{
+  margin:40rpx;
+}
+.ling-size-10{
+  font-size:20rpx;
+}
+.ling-size-12{
+  font-size:24rpx;
+}
+.ling-size-14{
+  font-size:28rpx;
+}
+.ling-size-16{
+  font-size:32rpx;
+}
+.ling-size-18{
+  font-size:36rpx;
+}
+.ling-flex{
+  display:flex;
+}
+.ling-flex-1{
+  flex:1;
+}
+
 

@@ -1,1 +1,8 @@
 /**index.wxss**/
+.index-box-item{
+	flex:1;
+}
+.index-box-item-img{
+	width:80rpx;
+	height:120rpx;
+}

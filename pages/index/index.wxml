@@ -1,7 +1,14 @@
 <view class="container">
-    <view class="pl10 pr10 pt10 pb10">
-        <wux-search-bar clear bind:confirm="onConfirm"/>
-    </view>
-      
-    
+	<view class="index-search-box ling-padding-10">
+		<wux-search-bar clear bind:confirm="onConfirm" wux-class="ling-search-bar" placeholder="请输入您要搜索的图书名"/>
+	</view>
+	<view class="index-box-list ling-flex ling-padding-10">
+		<view class="index-box-item ling-flex-1" wx:for="{{bookList}}" wx:key="doc_id">
+			<!-- <image class="index-box-item-img" src="{{item.url}}"></image>
+			<view>
+				<text>{{item.content}}</text>
+			</view> -->
+		</view>
+
+	</view>
 </view>
